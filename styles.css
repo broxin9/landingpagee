@@ -1,0 +1,173 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: fit-content;
+}
+
+
+.home {
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    width: auto; 
+    background-color: #1F2937;
+    color: white;
+}
+.zeza{
+    display: flex;
+    flex-direction: row;
+}
+.fanta {
+    display: flex;
+    margin-left: 180px;
+    height: 70px;
+    width: auto;
+    margin-top: 10px;
+    font-size: large;
+}
+.links {
+    display: flex;
+    gap: 20px; 
+    margin-left: 900px;
+    font-size: large;
+}
+.bosat {
+    display: flex;
+    height: fit-content;
+    margin-top: 10px;
+    height: 70px;
+    align-items: center;
+}
+.tekst {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    column-width: auto;
+    margin-left: 250px;
+    margin-top: 100px;
+    font-size: larger;
+    height: 250px;
+    width: 800px;
+    
+
+}
+.button {
+    background-color: #3882f6;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.krejt {
+    display: flex;
+    
+}
+.foto {
+    width: fit-content;
+    height: fit-content;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.loli {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    justify-content: center;
+    font-size: larger;
+}
+.maus {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 400px;
+}
+.images {
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    width: 1200px;
+    justify-content: space-evenly;
+    height: fit-content;
+
+}
+.image {
+    border-radius: 10px;
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: 4px solid  #3882f6;
+}
+.teksti {
+
+    width: 1050px;
+    display: flex;
+    gap: 100px;
+    justify-content: space-evenly;
+    font-size: larger;
+}
+.quote {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: larger;
+    height: 500px; 
+    background-color: #E5E7EB;
+}
+.who {
+    display: flex;
+margin-left: 700px;
+font-size: large;
+}
+.blue {
+    display: flex;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+}
+.kaka {
+display: flex;
+height: 150px;
+width: 900px;
+background-color: #3882f6;
+color: white;
+border-radius: 19px;
+align-items: center;
+justify-content: space-evenly;
+
+}
+.qitu {
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    margin: 0;
+    padding: 0;
+    line-height: 5px;
+}
+.signup {
+    display: flex;
+    border: 4px solid white ;
+    background-color: #3882f6;
+    color: white;
+    width: 130px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    border-radius: 16px;
+    cursor: pointer;
+
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    background-color: #1F2937;
+    color: white;
+}
